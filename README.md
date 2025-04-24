@@ -25,6 +25,7 @@ performing eigen decomposition using:
 identifying the two components (eigenvectors) with the largest eigenvalues (variance).
 projecting the 5D data onto the top 2 principal components.
 visualising the projection in a 2D scatter plot.
+
 Cite: Juhász, Á. J. (2018). Principal Component Analysis (PCA) – Computing Project 2 [Course project]. Ulster University. https://github.com/agnjuh/pca_microarray_analysis
 
 @misc{juhasz2018pca, author = {Juhász, Ágnes Judit}, title = {Principal Component Analysis (PCA) – Computing Project 2}, year = {2018}, howpublished = {\url{https://github.com/agnjuh/pca_microarray_analysis}}, note = {Course project submitted as part of a bioinformatics computing module}, institution = {Ulster University} }
