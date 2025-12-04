@@ -1,4 +1,4 @@
-Principal Component Analysis (PCA) — (Computing project 2)
+# Principal Component Analysis (PCA) — (Computing project 2) ![coursework](https://img.shields.io/badge/Academic_Coursework-Completed-purple)
 
 This repository contains two scripts developed for Computing Project 2 in the Mathematical and computational methods bioinformatics-focused course module (programme title: Stratified/Personalised Medicine at Ulster University). The project involves implementing PCA from first principles to explore patterns in simulated gene expression data measured across a group of patients. The goal is to visualise high-dimensional biological data in reduced dimensions while preserving variance trends.
 
@@ -27,5 +27,3 @@ projecting the 5D data onto the top 2 principal components.
 visualising the projection in a 2D scatter plot.
 
 Cite: Juhász, Á. J. (2018). Principal Component Analysis (PCA) – Computing Project 2 [Course project]. Ulster University. https://github.com/agnjuh/pca_microarray_analysis
-
-@misc{juhasz2018pca, author = {Juhász, Ágnes Judit}, title = {Principal Component Analysis (PCA) – Computing Project 2}, year = {2018}, howpublished = {\url{https://github.com/agnjuh/pca_microarray_analysis}}, note = {Course project submitted as part of a bioinformatics computing module}, institution = {Ulster University} }
